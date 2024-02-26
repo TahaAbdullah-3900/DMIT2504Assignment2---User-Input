@@ -1,4 +1,4 @@
-# DMIT2504Assignment2---User-Input
+# DMIT2504Assignment1---User-Input
 DMIT2504A!
 
 # Assignment 1: User Interface Layout
